@@ -150,7 +150,7 @@ module.exports = {
             }
         },
         users: [{
-                username: "<add your username here>",
+                username: "mrpher@gmail.com",
                 permissions: ["*"]
             }
         ]
